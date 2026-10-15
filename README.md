@@ -8,9 +8,9 @@ Estou estudando para ser programador de jogos e conto com o apoio dos meus respo
 
 ## 📥 Como Baixar o Jogo
 
-A imagem de CD prontinha para jogar (.ISO) está disponível para download seguro na área de **Releases** deste projeto!
+A imagem de CD prontinha para jogar (.ISO) está disponível para download seguro na área de **main** deste projeto!
 
-👉 Para baixar, olhe no menu do lado direito da tela, clique em **Releases** e baixe o arquivo `roth_cdtv_v1.iso`.
+👉 Para baixar, olhe no menu do lado direito da tela, clique em **main** e baixe o arquivo `roth_cdtv_v1.iso`.
 
 ---
 
